@@ -3,7 +3,7 @@ Pandix is a **fictional** operating system created by some guy just for fun, thi
 
 # Commands
 Here an updated list of commands ts has:
-`exit` and `e`: Leave the program
-`version`: See the version of the program
-`fetch`: See the system's details (don't expect actual details)
-More to be added soon ig
+`exit` and `e`: Leave the program··
+`version`: See the version of the program··
+`fetch`: See the system's details (don't expect actual details)··
+More to be added soon ig··
